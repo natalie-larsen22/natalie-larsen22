@@ -1,6 +1,9 @@
 ## Hi there 👋
-I'm Natalie.
-I love birds, gaming, gymnastics, art, and puzzles!
+### I'm Natalie.
+### -I love birds 🐦
+### -I'm a girl gamer 🎮
+### -I'm a data analyst 🖱️
+### -I love gymnastics 🤸‍♀️
 
 <!--
 **natalie-larsen22/natalie-larsen22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
