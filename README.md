@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Natalie.
+I love birds, gaming, gymnastics, art, and puzzles!
 
 <!--
 **natalie-larsen22/natalie-larsen22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
