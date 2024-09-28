@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heeeyyyy 👋
 ### I'm Natalie.
 ### -I love birds 🐦
 ### -I'm a girl gamer 🎮
